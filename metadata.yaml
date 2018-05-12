@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '41680'
     url: http://www.gutenberg.org/2009/agents/41680
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42421#L-art-de-faire-le-vin-avec-les-raisins-secs
 gutenberg_bookshelf:
 - FR Métiers et Artisanat
 - FR Sciences et Techniques
