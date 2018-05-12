@@ -1,0 +1,32 @@
+_repo: L-art-de-faire-le-vin-avec-les-raisins-secs_42421
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42421-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Audibert, J.-F. (Joseph-François)
+    aliases:
+    - Audibert, Joseph-François
+    - Audibert, Joseph F.
+    - Audibert, J.-F. (Joseph-Francois)
+    - Audibert, Joseph
+    gutenberg_agent_id: '41680'
+    url: http://www.gutenberg.org/2009/agents/41680
+description: ''
+gutenberg_bookshelf:
+- FR Métiers et Artisanat
+- FR Sciences et Techniques
+gutenberg_issued: '2013-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42421'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TP'
+- !lcsh 'Wine and wine making'
+title: L'art de faire le vin avec les raisins secs
+url: http://www.gutenberg.org/ebooks/42421
